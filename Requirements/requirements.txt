@@ -1,0 +1,6 @@
+opencv-python
+numpy
+base58
+tqdm
+pillow
+customtkinter
